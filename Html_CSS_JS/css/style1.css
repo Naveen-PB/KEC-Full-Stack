@@ -1,0 +1,40 @@
+.left{
+    float: left;
+   width: 31%;
+   height: 58cm;
+   background-color : rgb(92, 84, 84);
+   font-size: 25px;
+   
+
+}
+.right{
+    float: right;
+    width: 60%;
+    padding-right: 130px;
+    height: 58cm;
+    font-size:25px;
+    background-color : rgb(157, 198, 138);
+
+
+}
+.con{
+    color:rgb(29, 25, 26)
+}
+.con1{ 
+    color:rgb(255, 255, 255)
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+img{
+    border-radius: 50%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+hr{
+    border-width:10px;
+    color: rgb(62, 76, 208);
+}
+.both{
+    display: flex;
+}
